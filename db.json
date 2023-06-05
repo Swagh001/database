@@ -1,0 +1,139 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Sebastian Eschweiler",
+        "caseStatus": "Completed",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 2,
+        "name": "Sebastian Eschweiler",
+        "caseStatus": "Completed",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 3,
+        "name": "Sebastian Eschweiler",
+        "caseStatus": "Completed",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 4,
+        "name": "Sebastian Eschweiler",
+        "caseStatus": "Completed",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 5,
+        "name": "Sebastian Eschweiler",
+        "caseStatus": "Completed",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 6,
+        "name": "Sebastian Eschweiler",
+        "caseStatus": "Completed",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 7,
+        "name": "Sebastian Eschweiler",
+        "caseStatus": "Completed",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 8,
+        "name": "shailesh Eschweiler",
+        "caseStatus": "in progress",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1998-05-15"
+      },
+      {
+        "id": 9,
+        "name": "shailesh wagh",
+        "caseStatus": "in progress",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1998-05-15"
+      },
+      {
+        "id": 10,
+        "name": "Sameer shailh",
+        "caseStatus": "To DO",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1998-05-15"
+      },
+      {
+        "id": 11,
+        "name": "ajeet verma",
+        "caseStatus": "Completed",
+        "family": "Married",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1990-05-15"
+      },
+      {
+        "id": 12,
+        "name": "Sameer ali",
+        "caseStatus": "To DO",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1995-05-15"
+      },
+      {
+        "id": 13,
+        "name": "ajay das",
+        "caseStatus": "To DO",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1998-05-15"
+      },
+      {
+        "id": 14,
+        "name": "kristina shailh",
+        "caseStatus": "To DO",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "2000-05-15"
+      },
+      {
+        "id": 15,
+        "name": "dipti patil",
+        "caseStatus": "To DO",
+        "family": "Single",
+        "phone": "1234155",
+        "email": "sebastian@codingthesmartway.com",
+        "age": "1997-05-15"
+      }
+    ]
+  }
